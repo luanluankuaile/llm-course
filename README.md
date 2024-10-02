@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🗣️ Large Language Model Course</h1>
+  <h1>🗣️ Large Language Model Course(Full)</h1>
   <p align="center">
     🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
     🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
